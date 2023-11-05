@@ -17,6 +17,19 @@ WGU C867 Scripting & Programming Applications - CLI Student Application
 
 ---
 
+## Future Improvements
+
+
+---
+
+## Tools/Skills Used
+
+* Programming Language: C++
+* IDE: XCode
+* Version Control: Git & GitHub
+
+---
+
 The Project for C867 Scripting and Programming Applications was to develop a C++ program that took student data which included information such as student name, email address, degree program, student id, etc..., parse the student data, and provide predefined output information such as:
 - Which student emails are invalid
 - Displaying students in a specific degree program, "Software"
