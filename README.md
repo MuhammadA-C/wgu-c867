@@ -1,5 +1,7 @@
 # WGU-C867-Project
 
+WGU C867 Scripting & Programming Applications - CLI Application
+
 ---
 
 * University: Western Governors University (WGU)
