@@ -1,11 +1,15 @@
 # WGU-C867-Project
-WGU Bachelor of Science in Software Development
 
-Class: C867 Scripting and Programming Applications
+---
 
-Programming language: C++
+# Overview
 
-Date: 01/30/2023
+* University: Western Governors University (WGU)
+* Degree: Bachelor of Science in Software Development
+* Class: C867 Scripting and Programming Applications
+* Date: 01/30/2023
+
+---
 
 The Project for C867 Scripting and Programming Applications was to develop a C++ program that took student data which included information such as student name, email address, degree program, student id, etc..., parse the student data, and provide predefined output information such as:
 - Which student emails are invalid
