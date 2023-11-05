@@ -1,6 +1,6 @@
 # WGU-C867-Project
 
-WGU C867 Scripting & Programming Applications - CLI Application
+WGU C867 Scripting & Programming Applications - CLI Student Application
 
 ---
 
