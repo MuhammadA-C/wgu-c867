@@ -25,7 +25,7 @@ WGU C867 Scripting & Programming Applications - CLI Student Application
 ## Tools/Skills Used
 
 * Programming Language: C++
-* IDE: XCode
+* IDE: Xcode
 * Version Control: Git & GitHub
 
 ---
